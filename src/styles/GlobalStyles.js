@@ -1,25 +1,27 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components';
 
 const GlobaStyles = createGlobalStyle`
-/* 
-    Set default box-sizing to border-box to everything 
-*/
+/**
+ * Set default box-sizing to border-box to everything 
+ */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-/* 
-    html and body elemets to have height 100%
-*/
-html,body{
+/**
+ * html, body & elemet with id root to have height 100%
+ */
+html, 
+body, 
+#root {
   height: 100%;
 };
 
-/* 
-    Prefers Reduced Motion 
-*/
+/** 
+ * Prefers Reduced Motion 
+ */
 @media (prefers-reduced-motion: reduce) {
   *,
   ::before,

@@ -1,8 +1,13 @@
-import logo from "./logo.svg";
-import "./App.css";
+import styled from 'styled-components';
+import './App.css';
 
 function App() {
-  return <div className="App"></div>;
+  return <Wrapper />;
 }
+
+const Wrapper = styled.div`
+  border: solid red;
+  height: 100%;
+`;
 
 export default App;
