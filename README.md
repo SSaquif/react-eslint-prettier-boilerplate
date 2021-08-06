@@ -22,6 +22,7 @@ Read More and install from here [`eslint-config-airbnb`](https://www.npmjs.com/p
 ## Resources
 
 - [Normalize.css](https://necolas.github.io/normalize.css/)
-- [ESLint, Prettier & Airbnb Style Guide Setup](https://www.youtube.com/watch?v=SydnKbGc7W8)
+- [ESLint, Prettier & Airbnb Style Guide Setup: Youtube](https://www.youtube.com/watch?v=SydnKbGc7W8)
+- [Ben Awad Setup](https://www.youtube.com/watch?v=iEBaSjYaOWs)
 - [Prettier Rules](https://prettier.io/docs/en/options.html)
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript)
